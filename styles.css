@@ -1,0 +1,45 @@
+body{
+  background-color: black;
+  color: grey;
+  text-align: center;
+}
+
+h1{
+  font-size: 5rem;
+}
+button{
+  font-size: 10rem;
+  margin: 20px;
+  border: solid: grey 10px;
+  border-radius: 20%;
+}
+
+#green {
+  background-color: green;
+  color: green;
+}
+
+#red {
+  background-color: red;
+  color: red;
+}
+
+#yellow {
+  background-color: yellow;
+  color: yellow;
+}
+
+#blue {
+  background-color: blue;
+  color: blue;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
